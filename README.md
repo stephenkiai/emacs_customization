@@ -40,10 +40,10 @@ in Emacs, making it easier and more efficient to work with code and other text f
 
 **steps to access and edit your .emacs file**
 
-Open a terminal and navigate to your home directory "cd ~"
-list all and check if .emacs file is there "ls -la"
-Do "emacs .emacs" which will open(if file is present) or create(if file is absent)
-Then copy contents of config_file to .emacs, save and close.Enjoy. 
-Dont forget to star this repo if it helped you.
+* Open a terminal and navigate to your home directory "cd ~"
+* list all and check if .emacs file is there "ls -la"
+* Do "emacs .emacs" which will open(if file is present) or create(if file is absent)
+* Then copy contents of config_file to .emacs, save and close.Enjoy. 
+* Dont forget to star this repo if it helped you.
 
 If you are an emacs fun feel free to contribute.
