@@ -46,4 +46,4 @@ in Emacs, making it easier and more efficient to work with code and other text f
 * Then copy contents of [config_file](https://github.com/stephenkiai/emacs_customization/blob/main/config_file) to .emacs, save and close.Enjoy. 
 * Dont forget to star this repo if it helped you.
 
-If you are an emacs fun feel free to contribute.
+If you are an emacs fun feel free to contribute.contact info in my [profile](https://github.com/stephenkiai)
