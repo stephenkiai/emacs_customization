@@ -1,7 +1,7 @@
 **emacs customization**
 
 **RECOMMENDED: To ALX students who enjoy using emacs**
-
+```
 Customizing Emacs to suit your preferences can greatly improve your productivity
 and streamline your workflow. This configuration file includes several settings
 that can enhance your text editing experience.
@@ -37,9 +37,13 @@ you can **recover previous versions** if necessary.
 
 Overall, this configuration file can greatly enhance your text editing experience
 in Emacs, making it easier and more efficient to work with code and other text files.
-
+```
 **steps to access and edit your .emacs file**
 
-Open a terminal and navigate to your home directory "cd ~"list all and check if .emacs file is there "ls -la"Do "emacs .emacs" which will open(if file is present) or create(if file is absent)Then copy contents of config_file to .emacs, save and close.Enjoy. Dont forget to star this repo if it helped you.
+* Open a terminal and navigate to your home directory "cd ~"
+* list all and check if .emacs file is there "ls -la"
+* Do "emacs .emacs" which will open(if file is present) or create(if file is absent)
+* Then copy contents of [config_file](https://github.com/stephenkiai/emacs_customization/blob/main/config_file) to .emacs, save and close.Enjoy. 
+* Dont forget to star this repo if it helped you.
 
-If you are an emacs fun feel free to contribute.
+If you are an emacs fun feel free to contribute.contact info in my [profile](https://github.com/stephenkiai)
